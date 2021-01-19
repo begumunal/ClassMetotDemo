@@ -1,0 +1,13 @@
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\BEGÜM\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
